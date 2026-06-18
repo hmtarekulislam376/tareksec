@@ -1,22 +1,6 @@
 --
 
-  title?: string;
-}
-
-const pageTitle = "Blog | Muhammad Tarek — Techvrs";
-const pageDesc  = "SOC learning notes, TryHackMe writeups, and cybersecurity lab documentation.";
----
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{pageTitle}</title>
-  <meta name="description" content={pageDesc} />
-  <meta name="author" content="Muhammad Tarek" />
-  <meta property="og:title" content={pageTitle} />
-  <meta property="og:description" content={pageDesc} />
+sc} />
   <meta property="og:url" content="https://techvrs.com/blog/" />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="/assets/whitemode/favicon.svg" type="image/svg+xml" />
