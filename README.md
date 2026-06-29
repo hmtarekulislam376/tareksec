@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Tarek&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=SEO%20Specialist%20%7C%20Cybersecurity%20Enthusiast&descSize=17&descAlignY=58&descColor=aaaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Tarek&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Researcher%20%7C%20Pentesting%20Enthusiast&descSize=16&descAlignY=58&descColor=aaaaaa" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=SEO+%26+Link+Building+Specialist;Data-Driven+Search+Marketer;Cybersecurity+%26+Pentesting+Enthusiast;Network+Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+SOC+Analyst;Threat+Detection+%26+Incident+Response;Network+Penetration+Tester;Cybersecurity+Researcher" alt="Typing SVG" />
 
 </div>
 
@@ -10,41 +10,43 @@
 
 ## 👨‍💻 About Me
 
-I'm a results-driven **SEO & Link Building Specialist** who bridges the gap between *technical infrastructure*, *security compliance*, and *organic web growth*. Alongside SEO, I have a deep passion for **Cybersecurity** and **Ethical Hacking** — particularly in network penetration testing and security auditing.
+I'm an aspiring **SOC Analyst** passionate about **threat detection**, **incident response**, and **network security**. I'm actively building hands-on skills in security monitoring, log analysis, and penetration testing — with the goal of defending real-world infrastructure.
+
+Previously worked in **SEO & Digital Marketing**, which gave me a strong foundation in data analysis, web infrastructure, and technical problem-solving — skills I now apply directly to cybersecurity.
 
 ```yaml
 Name     : Muhammad Tarek
-Role     : SEO Specialist & Cybersecurity Enthusiast
-Focus    : Link Building | Technical SEO | Network Pentesting
+Role     : Aspiring SOC Analyst & Security Researcher
+Focus    : Threat Detection | Incident Response | Network Pentesting
 Learning : Google Cybersecurity Certificate | CNPen
+Platform : TryHackMe | HackTheBox
 Location : Bangladesh 🇧🇩
 ```
 
-- 💼 **Current Focus:** Advanced Link Building, Technical SEO audits & backlink profile management
+- 🔍 **Current Focus:** SOC operations, SIEM log analysis, and network traffic monitoring
 - 🛡️ **Certifications:** Pursuing **Google Cybersecurity Professional Certificate** & **CNPen**
-- ⚡ **Fun Fact:** I analyze search algorithms by day and dissect network packets & CTF challenges by night
+- ⚡ **Fun Fact:** I dissect network packets and grind CTF challenges to sharpen my defensive skills
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-**🔍 SEO & Digital Marketing**
+**🖥️ SOC & Security Monitoring**
 
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
-![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7F00?style=for-the-badge&logo=ahrefs&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Moz](https://img.shields.io/badge/Moz-00A4E0?style=for-the-badge&logo=moz&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
-**🛡️ Cybersecurity & Pentesting**
+**🌐 Network Analysis & Pentesting**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 **⚙️ Scripting & Automation**
 
@@ -52,6 +54,12 @@ Location : Bangladesh 🇧🇩
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🎯 Platforms & Frameworks**
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C41230?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -75,7 +83,8 @@ Location : Bangladesh 🇧🇩
 |:---|:---|:---|
 | Google Cybersecurity Professional | Google / Coursera | 🔄 In Progress |
 | CNPen — Certified Network Pentester | CNS | 🔄 In Progress |
-| TryHackMe Learning Paths | TryHackMe | ✅ Active |
+| CompTIA Security+ | CompTIA | 🎯 Target |
+| TryHackMe SOC Level 1 | TryHackMe | ✅ Active |
 
 ---
 
